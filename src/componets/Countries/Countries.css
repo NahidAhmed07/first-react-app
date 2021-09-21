@@ -1,0 +1,13 @@
+
+
+.heading{
+  font-size: 25px;
+  color: brown;
+  background: rgb(149, 149, 149);
+}
+
+.countries-parent{
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 20px;
+}
